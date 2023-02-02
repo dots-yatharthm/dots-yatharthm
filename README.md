@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dots-yatharthm (Yatharth Mandelia)
 - 👀 I’m interested in ... (Manual Testing)
 - 🌱 I’m currently learning ... (GitHub Basics, JMeter, Selenium WebDriver)
-- 💞️ I’m looking to collaborate on ... (Multicollab, Adient)
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... MailTo - yatharth.mandelia@multidots.com
 
 <!---
